@@ -1,0 +1,21 @@
+{
+    "name": "EL.Popups",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:029c1c1b674aaae47a6841a0b89ad80e",
+        "GUID:fe2893f95aae06b43870840fa3246810",
+        "GUID:644f0ec7fc7283e4abe67bc3664de44b",
+        "GUID:900c6502f32bd814f8d9fd0eab638d6a",
+        "GUID:0a36e35205d709c43ab601a416e23440"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,24 @@
+{
+    "name": "EL.GameCore",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b85a9b696dea92b4f9d0efe8b3f0e5b7",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:029c1c1b674aaae47a6841a0b89ad80e",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:fe2893f95aae06b43870840fa3246810",
+        "GUID:900c6502f32bd814f8d9fd0eab638d6a",
+        "GUID:644f0ec7fc7283e4abe67bc3664de44b",
+        "GUID:100e8d0d6322dbc498c413071fe4d3cf",
+        "GUID:0a36e35205d709c43ab601a416e23440"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

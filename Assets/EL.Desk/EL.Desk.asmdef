@@ -1,0 +1,18 @@
+{
+    "name": "EL.Desk",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fe2893f95aae06b43870840fa3246810",
+        "GUID:900c6502f32bd814f8d9fd0eab638d6a",
+        "GUID:644f0ec7fc7283e4abe67bc3664de44b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
